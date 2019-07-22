@@ -30,14 +30,14 @@ INSERT INTO products (iteam_name, catergory, products)
 VALUES ("Sony", "a7 III", "$2,198.00");
 
 INSERT INTO products (iteam_name, catergory, products)
-VALUES ("", "", "");
+VALUES ("Samsung", "Flat 82'' QLED 4K Q60 Series Smart TV (2019)", "$2,797.99");
 
 INSERT INTO products (iteam_name, catergory, products)
-VALUES ("", "", "");
+VALUES ("Harry Potter", "Complete 8 full colection", "$34.64");
 
 INSERT INTO products (iteam_name, catergory, products)
-VALUES ("", "", "");
+VALUES ("HTC", "Vertial reality", "$998.00");
 
 INSERT INTO products (iteam_name, catergory, products)
-VALUES ("", "", "");
+VALUES ("Rolex", "Oyster Perpetual Cosmograph Daytona", "$31,550.00");
 
